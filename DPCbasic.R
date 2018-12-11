@@ -1,4 +1,4 @@
-
+library(tidyverse)
 ##  *16
 ##  *_start & _end　から使用期間 (lnof <length of> )、使用の有無 (yes)、入院何日目に使用したか (hospdy <hospital day>)という変数を作成
 ##  capture program drop dpclength
